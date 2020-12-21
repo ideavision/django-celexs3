@@ -12,5 +12,5 @@
 6.	The file should be processed in an async celery task.
 7.	The original excel file should be stored in S3.
 
-[#] Narvik Aghamalian @ 19/12/2020
+- Narvik Aghamalian @ 19/12/2020
 
