@@ -1,5 +1,7 @@
 # Banzai Technical Challenge
 
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" width="20px" /> <a href="https://github.com/ideavision/django-celexs3/blob/master/Banzai-Technical-Challenge.pdf" > Documentation </a>
+
 1.	Create a view where a user can upload an excel file with a list of contacts.
 2.	The excel file should have Name, Phone Number, and Email Address columns.
 3.	When a user uploads a file, the contacts with a phone number should be stored in a model and any contacts without a phone number should be ignored.
@@ -9,3 +11,4 @@
 7.	The original excel file should be stored in S3.
 
 [#] Narvik Aghamalian @ 19/12/2020
+
