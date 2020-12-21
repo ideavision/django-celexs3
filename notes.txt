@@ -1,0 +1,10 @@
+Description :
+1. Importing excel file to contact table in 'tasks.import_task'.
+2. Rewrited exporting contact table to excel file in 'tasks.export_task'.
+3. Added AWS class in utils to upload files to aws s3.
+4. Used AWS class in 'contact.views.import_contact_view'. codes are comented.
+5. Added 'is_valid_dataframe' func in 'core.utils.DataframeUtil' to check file validation. used in 'contact.views'
+6. Added more status exceptions to notify client if something went wrong.
+7. Writed test cases in 'contact.tests' to test models.
+8. Writed doc strings on each class and func.
+9. Added 'env_variables.txt' that contains secret variables of AWS S3.
