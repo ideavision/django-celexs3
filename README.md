@@ -1,4 +1,4 @@
-# Technical Challenge
+# Django Celery File Upload AWS
 
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" width="20px" />  <a href="https://github.com/ideavision/django-celexs3/blob/master/Banzai-Technical-Challenge.pdf" > Documentation </a>
 
